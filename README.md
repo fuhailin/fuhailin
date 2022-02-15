@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-	<p align="center">Wechat ID <code>echo -n 'U3RhdGVPZkFydA==' | base64 -d</code></p>
+	<p align="center">Wechat ID <code>echo -n 'VV9qdW1wX0ktanVtcAo=' | base64 -d</code></p>
 </p>
 
 <p align="center">
